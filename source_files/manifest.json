@@ -1,0 +1,498 @@
+{
+  "target_council": "Ndola City Council",
+  "base_url": "https://www.ndolacouncil.gov.zm",
+  "total_documents_attempted": 49,
+  "successful_downloads": 49,
+  "documents": [
+    {
+      "filename": "NDOLA-CITY-COUNCIL-2026-BUDGET-1.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\NDOLA-CITY-COUNCIL-2026-BUDGET-1.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2026/08/NDOLA-CITY-COUNCIL-2026-BUDGET-1.pdf",
+      "category": "Budgets & Financials",
+      "description": "Ndola City Council 2026 Approved Budget",
+      "size_bytes": 1796867,
+      "sha256": "6c200bb884f8048b13370ec0eff42299ade4fbb9fde82ca13dbda06b86bc9837",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "2024-OBB-Annual-Detailed-2.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\2024-OBB-Annual-Detailed-2.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2024-OBB-Annual-Detailed-2.pdf",
+      "category": "Budgets & Financials",
+      "description": "Ndola City Council 2024 Output-Based Budget (OBB) Annual Detailed",
+      "size_bytes": 776105,
+      "sha256": "39cd01eaee55ae910ae69fa2b20e89057805e40dc426679192f2b081ff8c97f9",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "BI-ANNUAL-BUDGET-PERFORMANCE-REPORT-SEPTEMBER2025.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\BI-ANNUAL-BUDGET-PERFORMANCE-REPORT-SEPTEMBER2025.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/BI-ANNUAL-BUDGET-PERFORMANCE-REPORT-SEPTEMBER2025.pdf",
+      "category": "Budgets & Financials",
+      "description": "Bi-Annual Budget Performance Report September 2025",
+      "size_bytes": 193032,
+      "sha256": "0988c14195449ce9349f530f8c442ca72bbe57fcd0fa2a1003ee4d7393a7e0d2",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "Ndola-City-council-FS-2024_20251121_0001.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\Ndola-City-council-FS-2024_20251121_0001.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/11/Ndola-City-council-FS-2024_20251121_0001.pdf",
+      "category": "Budgets & Financials",
+      "description": "Ndola City Council Financial Statements 2024",
+      "size_bytes": 10458651,
+      "sha256": "aef7793acc06495b2e514ec6b3f84bb4c825b7aa4d422237939e3939b6dec2fe",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "2023-Financial-Statement.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\2023-Financial-Statement.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2023-Financial-Statement.pdf",
+      "category": "Budgets & Financials",
+      "description": "Ndola City Council Financial Statements 2023",
+      "size_bytes": 19286618,
+      "sha256": "2da7cc55ce401c006b45d1a072b66fb028d8bb410b543a0ea8514e6c4d87c73e",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "2022-Financial-Statement.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\2022-Financial-Statement.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2022-Financial-Statement.pdf",
+      "category": "Budgets & Financials",
+      "description": "Ndola City Council Financial Statements 2022",
+      "size_bytes": 19610702,
+      "sha256": "17e6ec06914636e8aa704bc215df4b4a38972ad83730eddf833df7e2a70ba4e2",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "2021-Financial-Statement.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\2021-Financial-Statement.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2021-Financial-Statement.pdf",
+      "category": "Budgets & Financials",
+      "description": "Ndola City Council Financial Statements 2021",
+      "size_bytes": 18989501,
+      "sha256": "320a9bcaa761b091830fc59f17e9286b79d71eb114b3cb3d8b2489208fbdfa4c",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "2020-Financial-Statement.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\2020-Financial-Statement.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2020-Financial-Statement.pdf",
+      "category": "Budgets & Financials",
+      "description": "Ndola City Council Financial Statements 2020",
+      "size_bytes": 20216636,
+      "sha256": "aa028fcbb36dffd406b9d3bfc428ea8672d8686ddef74222190236f251de443e",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "AUDIT-OPION-2024.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\AUDIT-OPION-2024.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/AUDIT-OPION-2024.pdf",
+      "category": "Budgets & Financials",
+      "description": "Ndola City Council External Audit Opinion 2024",
+      "size_bytes": 235589,
+      "sha256": "761a53f014f9955f2434d470ccfdc52241ba062fadd67e7bbadd60b0faf0effd",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "2025-List-of-approved-Community-Projects-Ndola-District-1.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\2025-List-of-approved-Community-Projects-Ndola-District-1.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2025-List-of-approved-Community-Projects-Ndola-District-1.pdf",
+      "category": "Constituency Development Fund",
+      "description": "2025 List of Approved CDF Community Projects - Ndola District",
+      "size_bytes": 187228,
+      "sha256": "5a0b71b0270909265de9f5615112fb27aeb540755c0fcf77ee893d23dbfcd952",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "APPROVED-2024-CDF-COMMUNITY-PROJECTS-1.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\APPROVED-2024-CDF-COMMUNITY-PROJECTS-1.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/APPROVED-2024-CDF-COMMUNITY-PROJECTS-1.pdf",
+      "category": "Constituency Development Fund",
+      "description": "2024 List of Approved CDF Community Projects - Ndola District",
+      "size_bytes": 189099,
+      "sha256": "d55ca71e68bdcf9b7c41a96d1d520e058af628128e984fdd566b2f439816b9f7",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "2024-CDF-DISAPPROVED-LIST-OF-PROJECTS-NDOLA-DISTRICT.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\2024-CDF-DISAPPROVED-LIST-OF-PROJECTS-NDOLA-DISTRICT.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2024-CDF-DISAPPROVED-LIST-OF-PROJECTS-NDOLA-DISTRICT.pdf",
+      "category": "Constituency Development Fund",
+      "description": "2024 CDF Disapproved Projects with Justification - Ndola District",
+      "size_bytes": 198891,
+      "sha256": "23ae3926f939991a619968f2ea8ee57d13cd25b4296a30889e9016f7866881f6",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIist-of-not-approved-CDF-2025-Community-Projects-Ndola-District-1.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIist-of-not-approved-CDF-2025-Community-Projects-Ndola-District-1.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIist-of-not-approved-CDF-2025-Community-Projects-Ndola-District-1.pdf",
+      "category": "Constituency Development Fund",
+      "description": "2025 CDF Disapproved Projects with Justification - Ndola District",
+      "size_bytes": 218993,
+      "sha256": "34bb497a87b9a732081db256b62d376dd680cf9b7529a0cb8ec1d6eccbb52379",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "chifubu-2025-skill-and-community-projecta-approvals.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\chifubu-2025-skill-and-community-projecta-approvals.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/chifubu-2025-skill-and-community-projecta-approvals.pdf",
+      "category": "Constituency Development Fund",
+      "description": "Chifubu Constituency 2025 Skills and Community Project Approvals",
+      "size_bytes": 2196935,
+      "sha256": "93d52385e65d46715bf3f219f53300e4d348048fecc0ed29e29e039ee6470b91",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "01-LiST-OF-APPROVED-CDF-2025-SKILLS-DEVELOPMENT-Ndola-Central-Constituency.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\01-LiST-OF-APPROVED-CDF-2025-SKILLS-DEVELOPMENT-Ndola-Central-Constituency.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/01-LiST-OF-APPROVED-CDF-2025-SKILLS-DEVELOPMENT-Ndola-Central-Constituency.pdf",
+      "category": "CDF Skills & Bursaries",
+      "description": "2025 Approved CDF Skills Development Bursaries - Ndola Central Constituency",
+      "size_bytes": 369029,
+      "sha256": "871c0f17b743b8e3cc2d1e03236b5bcd0e66114d6f55c38fbc369602db37f95d",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF-2025-SKILLS-DEVELOPMENT-Bwana-Mkubwa_Constituency.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF-2025-SKILLS-DEVELOPMENT-Bwana-Mkubwa_Constituency.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SKILLS-DEVELOPMENT-Bwana-Mkubwa_Constituency.pdf",
+      "category": "CDF Skills & Bursaries",
+      "description": "2025 Approved CDF Skills Development Bursaries - Bwana Mkubwa Constituency",
+      "size_bytes": 589604,
+      "sha256": "4b964ac169e5f07efede4cd493fcebe8c30e1e4fc061ccce3fc4f04987f48baa",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF-2025-SKILLS-DEVELOPMENT-Chifubu-constituency.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF-2025-SKILLS-DEVELOPMENT-Chifubu-constituency.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SKILLS-DEVELOPMENT-Chifubu-constituency.pdf",
+      "category": "CDF Skills & Bursaries",
+      "description": "2025 Approved CDF Skills Development Bursaries - Chifubu Constituency",
+      "size_bytes": 644706,
+      "sha256": "1d9c50ddc27294821a7cbb01429cc99f5be146c492f2f55735da590fc624dbbd",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF-2025-SKILS-DEVELOPMENT-BENEFICARIES-KABUSHI-CONSTITUENCY.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF-2025-SKILS-DEVELOPMENT-BENEFICARIES-KABUSHI-CONSTITUENCY.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SKILS-DEVELOPMENT-BENEFICARIES-KABUSHI-CONSTITUENCY.pdf",
+      "category": "CDF Skills & Bursaries",
+      "description": "2025 Approved CDF Skills Development Bursaries - Kabushi Constituency",
+      "size_bytes": 463843,
+      "sha256": "115c5dfeb399225ddfa98a2a74b12a92b8350bde86d949f0be53661e1437a5b3",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-Ndola-Central.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-Ndola-Central.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-Ndola-Central.pdf",
+      "category": "CDF Secondary Bursaries",
+      "description": "2025 Approved CDF Secondary School Boarding Bursaries - Ndola Central Constituency",
+      "size_bytes": 216408,
+      "sha256": "0fb706a7160f610249f5f4726beb9a4024afd79db708bba2261d8f4a44e5d6d9",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-Bwana-Mkubwa_Constituency.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-Bwana-Mkubwa_Constituency.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-Bwana-Mkubwa_Constituency.pdf",
+      "category": "CDF Secondary Bursaries",
+      "description": "2025 Approved CDF Secondary School Boarding Bursaries - Bwana Mkubwa Constituency",
+      "size_bytes": 195158,
+      "sha256": "7c134f0df35b6f0e05561e9fa20cb0897ef4416d051834655850315cbd260231",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-CHIFUBU-CONSTITUENCY.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-CHIFUBU-CONSTITUENCY.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-CHIFUBU-CONSTITUENCY.pdf",
+      "category": "CDF Secondary Bursaries",
+      "description": "2025 Approved CDF Secondary School Boarding Bursaries - Chifubu Constituency",
+      "size_bytes": 184578,
+      "sha256": "7a458535544d85e3fcdf01cea88a3a3f6ee6ba70f86b10d7d0d0fa5456655d55",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-KABUSHI-Constituency.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-KABUSHI-Constituency.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-KABUSHI-Constituency.pdf",
+      "category": "CDF Secondary Bursaries",
+      "description": "2025 Approved CDF Secondary School Boarding Bursaries - Kabushi Constituency",
+      "size_bytes": 168232,
+      "sha256": "466102ec7e1c85f10052024ab88146a74b2e63af41ddbf467762723e844bb05c",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF-2025-EMPOWERNMENT-GRANTS-NDOLA-CENTRAL-Constituency-1.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF-2025-EMPOWERNMENT-GRANTS-NDOLA-CENTRAL-Constituency-1.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-EMPOWERNMENT-GRANTS-NDOLA-CENTRAL-Constituency-1.pdf",
+      "category": "CDF Empowerment Grants",
+      "description": "2025 Approved CDF Empowerment Grants - Ndola Central Constituency",
+      "size_bytes": 177679,
+      "sha256": "d4248f048d49188c043bd3008c39ca36f8665401003e22ad186cbea8ad52d49b",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF-2025-EMPWERMENT-GRANTS-BWANA-MKUBWA-Constituency-1.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF-2025-EMPWERMENT-GRANTS-BWANA-MKUBWA-Constituency-1.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-EMPWERMENT-GRANTS-BWANA-MKUBWA-Constituency-1.pdf",
+      "category": "CDF Empowerment Grants",
+      "description": "2025 Approved CDF Empowerment Grants - Bwana Mkubwa Constituency",
+      "size_bytes": 248824,
+      "sha256": "652fa42a865222ca97e5a1d3b2814514cbe70fe51d6fbe8b0c705c0dd06f9fd7",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF-2025-EMPOWERMENT-GRANTS-CHIFUBU-CONSTITUENCY-1.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF-2025-EMPOWERMENT-GRANTS-CHIFUBU-CONSTITUENCY-1.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-EMPOWERMENT-GRANTS-CHIFUBU-CONSTITUENCY-1.pdf",
+      "category": "CDF Empowerment Grants",
+      "description": "2025 Approved CDF Empowerment Grants - Chifubu Constituency",
+      "size_bytes": 169071,
+      "sha256": "05ecc23fadf30566650e943ecfd292afdbe6084a4dd54bd5ee5d71fce6ddb486",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APROVED-CDF-2025-EMPOWERMENT-GRANTS-KABUSHI-Constituency-1.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APROVED-CDF-2025-EMPOWERMENT-GRANTS-KABUSHI-Constituency-1.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APROVED-CDF-2025-EMPOWERMENT-GRANTS-KABUSHI-Constituency-1.pdf",
+      "category": "CDF Empowerment Grants",
+      "description": "2025 Approved CDF Empowerment Grants - Kabushi Constituency",
+      "size_bytes": 200125,
+      "sha256": "a06334d2d001e7acb89b6cdaaa8597e1c6cce7dfab50041200b73507db6db916",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF-2025-EMPOWERMRNT-LOANS-NDOLA-CENTRAL-CINSTITUENCY_1-2.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF-2025-EMPOWERMRNT-LOANS-NDOLA-CENTRAL-CINSTITUENCY_1-2.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-EMPOWERMRNT-LOANS-NDOLA-CENTRAL-CINSTITUENCY_1-2.pdf",
+      "category": "CDF Empowerment Loans",
+      "description": "2025 Approved CDF Empowerment Loans - Ndola Central Constituency",
+      "size_bytes": 226161,
+      "sha256": "7ac6281b3ebe2f82f3462864a7cc699091624b908ed13b1b1f0508863e68a84f",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF-2025-LOAN-BENEFICARIES-BWANA-MKUBWA-CONTITUENCY.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF-2025-LOAN-BENEFICARIES-BWANA-MKUBWA-CONTITUENCY.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-LOAN-BENEFICARIES-BWANA-MKUBWA-CONTITUENCY.pdf",
+      "category": "CDF Empowerment Loans",
+      "description": "2025 Approved CDF Empowerment Loans - Bwana Mkubwa Constituency",
+      "size_bytes": 199186,
+      "sha256": "42c0d9f73db785f2f2fb3fe8c2fee8ca089b9e11ffa79063803051d05dfe3b7b",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "LIST-OF-APPROVED-CDF2025-EMPOWERMENT-LOANS-CHIFUBU-CONSTITUENCY-Copy.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\LIST-OF-APPROVED-CDF2025-EMPOWERMENT-LOANS-CHIFUBU-CONSTITUENCY-Copy.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF2025-EMPOWERMENT-LOANS-CHIFUBU-CONSTITUENCY-Copy.pdf",
+      "category": "CDF Empowerment Loans",
+      "description": "2025 Approved CDF Empowerment Loans - Chifubu Constituency",
+      "size_bytes": 171856,
+      "sha256": "1100669e37215e881399c3c6d01d482c91a1542806f68702730f3ab2a31e2a26",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "NDOLA-DISTRICT-IDP-LAUNCH.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\NDOLA-DISTRICT-IDP-LAUNCH.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2026/04/NDOLA-DISTRICT-IDP-LAUNCH.pdf",
+      "category": "Integrated Development Plans",
+      "description": "Ndola District Integrated Development Plan (IDP) Launch Document",
+      "size_bytes": 14626400,
+      "sha256": "5840e2bef1a0d8d4d24ae2db15999f4fb853584c49b3f8b23cd8398d5c865ad5",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "Ndola-Citizen-Engagement-Strategy.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\Ndola-Citizen-Engagement-Strategy.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/Ndola-Citizen-Engagement-Strategy.pdf",
+      "category": "Integrated Development Plans",
+      "description": "Ndola City Council Citizen Engagement Strategy 2025-2028",
+      "size_bytes": 4130301,
+      "sha256": "cf60456e6a2b271081b672e4f5bd80779663140f8f43951a93bfbab36079c738",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "SERVICE-CHARTER-FOR-NDOLA-CITY-COUNCIL.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\SERVICE-CHARTER-FOR-NDOLA-CITY-COUNCIL.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2026/03/SERVICE-CHARTER-FOR-NDOLA-CITY-COUNCIL.pdf",
+      "category": "Integrated Development Plans",
+      "description": "Ndola City Council Service Charter",
+      "size_bytes": 770457,
+      "sha256": "bc2c9b53c11e90c01aac407d5e814d441c8e06337c8cba587ef237d8d780b527",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "2025-STAKEHOLDER-ENGAGEMENT-PLAN.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\2025-STAKEHOLDER-ENGAGEMENT-PLAN.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2026/01/2025-STAKEHOLDER-ENGAGEMENT-PLAN.pdf",
+      "category": "Integrated Development Plans",
+      "description": "2025 Stakeholder Engagement Plan",
+      "size_bytes": 1035214,
+      "sha256": "5b147c7c867e46111c7115ad49cc0071b60d27d87d771ca029317878cec516ea",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "Water-and-Sanitation-Community-Engagement-Report.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\Water-and-Sanitation-Community-Engagement-Report.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/Water-and-Sanitation-Community-Engagement-Report.pdf",
+      "category": "Integrated Development Plans",
+      "description": "Water and Sanitation Community Engagement Report for 2025",
+      "size_bytes": 200832,
+      "sha256": "375860296ee9b1e3d3651c762e0cf304016b9757dff386683fa5f27104011fe2",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "MINUTES-OF-THE-ORDINARY-MEETING-OF-THE-COUNCIL-HELD-ON-1ST-JULY-2025.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\MINUTES-OF-THE-ORDINARY-MEETING-OF-THE-COUNCIL-HELD-ON-1ST-JULY-2025.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-THE-ORDINARY-MEETING-OF-THE-COUNCIL-HELD-ON-1ST-JULY-2025.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "Minutes of the Ordinary Meeting of the Council - 1st July 2025",
+      "size_bytes": 405326,
+      "sha256": "e78f5a0de4777b084a6182beacbda5c8722574c49e3e8317b24e19d6b5b7299c",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "MINUTES-OF-COUNCIL-MEETING-HELD-ON-31ST-MARCH-2025.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\MINUTES-OF-COUNCIL-MEETING-HELD-ON-31ST-MARCH-2025.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-COUNCIL-MEETING-HELD-ON-31ST-MARCH-2025.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "Minutes of Council Meeting - 31st March 2025",
+      "size_bytes": 396599,
+      "sha256": "42fac2a9c99e5e53d6dbfc3388a9f5b7206f4d1842a5dc861983a56a2778410c",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "MINUTES-OF-THE-SPECIAL-COUNCIL-MEETING-HELD-ON-4TH-APRIL-2025.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\MINUTES-OF-THE-SPECIAL-COUNCIL-MEETING-HELD-ON-4TH-APRIL-2025.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-THE-SPECIAL-COUNCIL-MEETING-HELD-ON-4TH-APRIL-2025.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "Minutes of Special Council Meeting - 4th April 2025",
+      "size_bytes": 474614,
+      "sha256": "d1a0685208e9fec569645b7f9ccab16b64c9309ddc3f6e40c5adbf2af64bb46d",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "MINUTES-OF-THE-COUNCIL-MEETING-HELD-ON-30TH-DECEMBER2024.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\MINUTES-OF-THE-COUNCIL-MEETING-HELD-ON-30TH-DECEMBER2024.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-THE-COUNCIL-MEETING-HELD-ON-30TH-DECEMBER2024.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "Minutes of Council Meeting - 30th December 2024",
+      "size_bytes": 459105,
+      "sha256": "cd974243d98088457198499a5beacfb3b405abe9d7d7a64e897b4f458d2b9db1",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "MINUTES-OF-COUNCIL-MEETING-HELD-ON-28TH-JUNE-2024.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\MINUTES-OF-COUNCIL-MEETING-HELD-ON-28TH-JUNE-2024.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-COUNCIL-MEETING-HELD-ON-28TH-JUNE-2024.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "Minutes of Council Meeting - 28th June 2024",
+      "size_bytes": 343970,
+      "sha256": "015c6756ff589cab5462bd275ddc8523329918d854051bf8f5eef99169639ddc",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "MINUTES-OF-PLANNING-HELD-ON-26TH-SEPTEMBER-2024.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\MINUTES-OF-PLANNING-HELD-ON-26TH-SEPTEMBER-2024.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-PLANNING-HELD-ON-26TH-SEPTEMBER-2024.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "Minutes of Planning Committee - 26th September 2024",
+      "size_bytes": 7208269,
+      "sha256": "a661fdbb9ad4262b3420b5f4db653137c7f00236231dbbb70d10201be14639e5",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "MINUTES-OF-ENGINEERING-SERVICES-COMMITTEE-HELD-ON-MONDAY-23RD-SEPTEMBER-2024.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\MINUTES-OF-ENGINEERING-SERVICES-COMMITTEE-HELD-ON-MONDAY-23RD-SEPTEMBER-2024.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-ENGINEERING-SERVICES-COMMITTEE-HELD-ON-MONDAY-23RD-SEPTEMBER-2024.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "Minutes of Engineering Services Committee - 23rd September 2024",
+      "size_bytes": 518665,
+      "sha256": "51ed10ce464b2e6e1c3161926b4f52f940fde543717a509ac49d59ec97e3e5f9",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "MINUTES-OF-AUDIT-COMMITTEE-HELD-ON-25TH-SEPTEMBER-2024.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\MINUTES-OF-AUDIT-COMMITTEE-HELD-ON-25TH-SEPTEMBER-2024.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-AUDIT-COMMITTEE-HELD-ON-25TH-SEPTEMBER-2024.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "Minutes of Audit Committee - 25th September 2024",
+      "size_bytes": 809660,
+      "sha256": "11ef0bf96522491050f3747d542fbdbbd520b89da08b8885bf7a9c20cee42e61",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "MINUTES-OF-LEGAL-SERVICES-ADMIN-HELD-ON-1ST-OCTOBER-2024.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\MINUTES-OF-LEGAL-SERVICES-ADMIN-HELD-ON-1ST-OCTOBER-2024.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-LEGAL-SERVICES-ADMIN-HELD-ON-1ST-OCTOBER-2024.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "Minutes of Legal Services Committee - 1st October 2024",
+      "size_bytes": 991094,
+      "sha256": "8edba090682e2a26da41482ae7aa74623875cc2aa2e82953e4d38c82f7490752",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "MINUTES-OFCOMMUNITY-DEVELOPMENT-HELD-ON-16TH-SEPTEMBER-2024.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\MINUTES-OFCOMMUNITY-DEVELOPMENT-HELD-ON-16TH-SEPTEMBER-2024.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OFCOMMUNITY-DEVELOPMENT-HELD-ON-16TH-SEPTEMBER-2024.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "Minutes of Community Development Committee - 16th September 2024",
+      "size_bytes": 1053192,
+      "sha256": "6029ec1a9505be736d1a9dfaaca980d9c9ab9d3cb9891d5240bf9618842b705d",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "DDCC-MINUTES-OF-2ND-QUARTER-MEETING_22-JULY-2025.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\DDCC-MINUTES-OF-2ND-QUARTER-MEETING_22-JULY-2025.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/DDCC-MINUTES-OF-2ND-QUARTER-MEETING_22-JULY-2025.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "District Development Coordinating Committee (DDCC) 2nd Quarter Minutes - 22 July 2025",
+      "size_bytes": 1213745,
+      "sha256": "2a66c6bbd559c551e6b5ab0aedd37fadc0c982df7781c6e80102b871cbc686e5",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "FINAL-DDCC-MINUTES-OF-3RD-QUARTER-MEETING_24-SEPTEMBER-2025.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\FINAL-DDCC-MINUTES-OF-3RD-QUARTER-MEETING_24-SEPTEMBER-2025.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/FINAL-DDCC-MINUTES-OF-3RD-QUARTER-MEETING_24-SEPTEMBER-2025.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "District Development Coordinating Committee (DDCC) 3rd Quarter Minutes - 24 September 2025",
+      "size_bytes": 993192,
+      "sha256": "63af5de567aa466f2b5c473e37278a04455b1ef3367b9c5fff78693bb54847f1",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "MINUTES-OF-THE-DDCC-MEETING-HELD-ON-3-APRIL-2025.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\MINUTES-OF-THE-DDCC-MEETING-HELD-ON-3-APRIL-2025.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-THE-DDCC-MEETING-HELD-ON-3-APRIL-2025.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "District Development Coordinating Committee (DDCC) Minutes - 3 April 2025",
+      "size_bytes": 1140794,
+      "sha256": "c16bb99d0c38e3e23aaed8b82ab6166811d6c300564b71143a4ed3ab39c48681",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "COMMUNITY-STAKEHOLDERS-MINUTES-1.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\COMMUNITY-STAKEHOLDERS-MINUTES-1.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/COMMUNITY-STAKEHOLDERS-MINUTES-1.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "Community Stakeholders Engagement Minutes for 2025 Budget",
+      "size_bytes": 1992124,
+      "sha256": "eae9638579cba8385bf449b75a5648d29edc0af5525a3b4fcf5efeb99fe114e5",
+      "status": "SUCCESS"
+    },
+    {
+      "filename": "BUSINESS-STAKEHOLDERS-MINUTES-1.pdf",
+      "path": "C:\\Users\\Humphrey\\Documents\\SCHOOL\\PERSONAL\\Projects\\db-unza26-csc4792-ndola-city-council\\source_files\\BUSINESS-STAKEHOLDERS-MINUTES-1.pdf",
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/BUSINESS-STAKEHOLDERS-MINUTES-1.pdf",
+      "category": "Council Administration & Resolutions",
+      "description": "Business Stakeholders Engagement Minutes for 2026 Budget",
+      "size_bytes": 1473085,
+      "sha256": "995611b3bdd94db410f16c229d0bc67d6eb87a3ac3d2da4750ac866f05cac2ee",
+      "status": "SUCCESS"
+    }
+  ]
+}
