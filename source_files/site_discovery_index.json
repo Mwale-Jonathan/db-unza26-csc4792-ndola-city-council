@@ -1,0 +1,631 @@
+{
+  "target": "https://www.ndolacouncil.gov.zm",
+  "crawled_pages_count": 42,
+  "discovered_documents_count": 74,
+  "discovered_documents": [
+    {
+      "url": "http://www.lusangazicouncil.gov.zm/wp-content/uploads/2023/05/1647006602-1.pdf",
+      "anchor_text": "CDF Skills Bursaries\u00a0Applicants",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2023/10/FINAL-CDF-GUIDELINES-FEBRUARY-2022-1.pdf",
+      "anchor_text": "Download Guidelines",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2023/11/CDF-STATEMENT-previous.pdf",
+      "anchor_text": "CDF PRESS SATEMENT",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2023/11/NDOLA-CITY-COUNCIL-NEWSLETTER-16-jul-8-1.pdf",
+      "anchor_text": "NEWSLETTER 2023",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2023/11/PRESS-STATEMENT-1.pdf",
+      "anchor_text": "Download Latest Statement",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2023/11/PRESS-STATEMENT-1.pdf",
+      "anchor_text": "PRESS STATEMENT 1",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2023/11/The-Constituency-Development-Fund-Act-No.-11-of-2018-1.pdf",
+      "anchor_text": "CDF APPLICATION FORMS",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/06/2025-STAKEHOLDER-ENGAGEMENT-PLAN-3.pdf",
+      "anchor_text": "STAKEHOLDER-ENGAGEMENT-PLAN-3.pdf",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/11/Ndola-City-council-FS-2024_20251121_0001.pdf",
+      "anchor_text": "2024-NDOLA CITY COUNCIL Financial Statements",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/01-LiST-OF-APPROVED-CDF-2025-SKILLS-DEVELOPMENT-Ndola-Central-Constituency.pdf",
+      "anchor_text": "LIST OF APPROVED CDF-2025 SKILLS DEVELOPMENT \u2013 Ndola Central Constituency",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2020-Financial-Statement.pdf",
+      "anchor_text": "2020-NDOLA CITY COUNCIL Financial Statements",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2021-Financial-Statement.pdf",
+      "anchor_text": "2021-NDOLA CITY COUNCIL Financial Statements",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2022-Financial-Statement.pdf",
+      "anchor_text": "2022-NDOLA CITY COUNCIL Financial Statements",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2023-Financial-Statement.pdf",
+      "anchor_text": "2023 -NDOLA CITY COUNCIL Financial Statements",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2024-CDF-DISAPPROVED-LIST-OF-PROJECTS-NDOLA-DISTRICT.pdf",
+      "anchor_text": "2024 Disapproved projects with Justification",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2024-OBB-Annual-Detailed-2.pdf",
+      "anchor_text": "NDOLA CITY COUNCIL 2024 BUDGET",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/2025-List-of-approved-Community-Projects-Ndola-District-1.pdf",
+      "anchor_text": "2025 Approved community Projects",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/APPROVED-2024-CDF-COMMUNITY-PROJECTS-1.pdf",
+      "anchor_text": "2024 Approved projects",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/AUDIT-OPION-2024.pdf",
+      "anchor_text": "2024-AUDIT OPINION",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/BI-ANNUAL-BUDGET-PERFORMANCE-REPORT-SEPTEMBER2025.pdf",
+      "anchor_text": "BI- ANNUAL BUDGET PERFORMANCE REPORT FOR 2025",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/BUSINESS-STAKEHOLDERS-MINUTES-1.pdf",
+      "anchor_text": "BUSINESS STAKEHOLDER\u2019S ENGAGEMENTS MINUTES FOR 2026 BUDGET",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/BUSINESS-STAKEHOLDERS-MINUTES.pdf",
+      "anchor_text": "FOR 2026 BUDGET",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/CDF-Community-Projects-Application-Form-pdf-2.pdf",
+      "anchor_text": "CDF Community Projects Application Form pdf",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/CDF-Grant-Application-Form-For-Youth-Women-and-Community-Empowerment.pdf",
+      "anchor_text": "CDF Grant Application Form For Youth, Women and Community Empowerment",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/CDF-Loan-Agreement-Form-pdf-1.pdf",
+      "anchor_text": "CDF Loan Agreement Form pdf",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/CDF-Skills-Development-Bursary-Application-Form-pdf.pdf",
+      "anchor_text": "CDF Skills Development Bursary Application Form pdf",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/COMMUNITY-STAKEHOLDERS-MINUTES-1.pdf",
+      "anchor_text": "COMMUNITY\u00a0 STAKEHOLDERS ENGAGEMENTS MINUTES",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/Community-Stakeholders-Enagagement-minutes-for-2025-Budget-1.pdf",
+      "anchor_text": "BUSINESS STAKEHOLDER\u2019S ENGAGEMENTS MINUTES FOR 2025 BUDGET",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/Community-Stakeholders-Enagagement-minutes-for-2025-Budget-1.pdf",
+      "anchor_text": "COMMUNITY STAKEHOLDER\u2019S ENGAGEMENTS MINUTES FOR 2025 BUDGET",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/DDCC-MINUTES-OF-2ND-QUARTER-MEETING_22-JULY-2025.pdf",
+      "anchor_text": "2ND QUARTER MEETING_22 JULY 2025",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/DDCC-MINUTES-OF-2ND-QUARTER-MEETING_22-JULY-2025.pdf",
+      "anchor_text": "DDCC MINUTES OF",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/FINAL-DDCC-MINUTES-OF-3RD-QUARTER-MEETING_24-SEPTEMBER-2025.pdf",
+      "anchor_text": "FINAL DDCC",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/FINAL-DDCC-MINUTES-OF-3RD-QUARTER-MEETING_24-SEPTEMBER-2025.pdf",
+      "anchor_text": "MINUTES OF 3RD QUARTER MEETING_24 SEPTEMBER 2025",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-EMPOWERMENT-GRANTS-CHIFUBU-CONSTITUENCY-1.pdf",
+      "anchor_text": "LIST OF APPROVED CDF-2025 EMPOWERMENT GRANTS \u2013 CHIFUBU CONSTITUENCY",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-EMPOWERMRNT-LOANS-NDOLA-CENTRAL-CINSTITUENCY_1-2.pdf",
+      "anchor_text": "List of CDF Approved Empowerment Loans -2025 Ndola Central Constituency",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-EMPOWERNMENT-GRANTS-NDOLA-CENTRAL-Constituency-1.pdf",
+      "anchor_text": "LIST OF APPROVED CDF-2025 EMPOWERMENT GRANTS \u2013 NDOLA CENTRAL CONSTITUENCY",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-EMPWERMENT-GRANTS-BWANA-MKUBWA-Constituency-1.pdf",
+      "anchor_text": "LIST OF APPROVED CDF-2025 EMPOWERMENT GRANTS \u2013 BWANA M\u2019KUBWA CONSTITUENCY",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-LOAN-BENEFICARIES-BWANA-MKUBWA-CONTITUENCY.pdf",
+      "anchor_text": "List of CDF Approved Empowerment Loans -2025 Bwana M\u2019kubwa Constituency",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-Bwana-Mkubwa_Constituency.pdf",
+      "anchor_text": "2025 Secondary bursaries Bwana M\u2019kubwa Constituency",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-CHIFUBU-CONSTITUENCY.pdf",
+      "anchor_text": "2025 Secondary bursaries Chifubu Constituency",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-KABUSHI-Constituency.pdf",
+      "anchor_text": "2025 Secondary bursaries Kabushi Constituency",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SECONDARY-BOARDING-Ndola-Central.pdf",
+      "anchor_text": "2025 Secondary bursaries Ndola Central Constituency",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SKILLS-DEVELOPMENT-Bwana-Mkubwa_Constituency.pdf",
+      "anchor_text": "LIST OF APPROVED CDF-2025 SKILLS DEVELOPMENT \u2013 Bwana M\u2019kubwa Central Constituency",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SKILLS-DEVELOPMENT-Chifubu-constituency.pdf",
+      "anchor_text": "LIST OF APPROVED CDF-2025 SKILLS DEVELOPMENT \u2013 Chifubu Constituency",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF-2025-SKILS-DEVELOPMENT-BENEFICARIES-KABUSHI-CONSTITUENCY.pdf",
+      "anchor_text": "LIST OF APPROVED CDF-2025 SKILLS DEVELOPMENT \u2013 Kabushi Central Constituency",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APPROVED-CDF2025-EMPOWERMENT-LOANS-CHIFUBU-CONSTITUENCY-Copy.pdf",
+      "anchor_text": "List of CDF Approved Empowerment Loans -2025 Chifubu Constituency",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APROVED-CDF-2025-EMPOWERMENT-GRANTS-KABUSHI-Constituency-1.pdf",
+      "anchor_text": "List of CDF Approved Empowerment Loans -2025 Kabushi Constituency",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIST-OF-APROVED-CDF-2025-EMPOWERMENT-GRANTS-KABUSHI-Constituency-2.pdf",
+      "anchor_text": "LIST OF APPROVED CDF-2025 EMPOWERMENT GRANTS \u2013 KABUSHI CONSTITUENCY",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LIist-of-not-approved-CDF-2025-Community-Projects-Ndola-District-1.pdf",
+      "anchor_text": "2025 Disapproved projects with Justification",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/LOAN-EMPOWERMENT-APPLICATION-FORM-FINAL-202_12_2022-1-4.pdf",
+      "anchor_text": "Loan Empowerment Application Form Final 202_12_2022-1-4",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-AUDIT-COMMITTEE-HELD-ON-25TH-SEPTEMBER-2024.pdf",
+      "anchor_text": "MINUTES OF AUDIT COMMITTEE HELD ON-25TH SEPTEMBER,2024",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-COUNCIL-MEETING-HELD-ON-28TH-JUNE-2024.pdf",
+      "anchor_text": "MINUTES OF COUNCIL MEETING HELD ON-28TH JUNE,2024",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-COUNCIL-MEETING-HELD-ON-31ST-MARCH-2025.pdf",
+      "anchor_text": "MINUTES OF COUNCIL MEETING HELD ON-31ST MARCH,2025",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-ENGINEERING-SERVICES-COMMITTEE-HELD-ON-MONDAY-23RD-SEPTEMBER-2024.pdf",
+      "anchor_text": "MINUTES OF ENGINEERING SERVICES COMMITTEE HELD-ON MONDAY,23RD SEPTEMBER,2024",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-LEGAL-SERVICES-ADMIN-HELD-ON-1ST-OCTOBER-2024.pdf",
+      "anchor_text": "MINUTES OF LEGAL SERVICES ADMIN HELD ON-1ST OCTOBER,2024",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-PLANNING-HELD-ON-26TH-SEPTEMBER-2024.pdf",
+      "anchor_text": "MINUTES OF PLANNING HELD ON-26TH SEPTEMBER,2024",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-SPECIAL-COUNCIL-MEETING-HELD-ON-20TH-SEPTEBER-2024.pdf",
+      "anchor_text": "MINUTES OF SPECIAL COUNCIL MEETING HELD ON-20TH SEPTEBER,2024",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-THE-COUNCIL-MEETING-HELD-ON-30TH-DECEMBER2024.pdf",
+      "anchor_text": "MINUTES OF THE COUNCIL MEETING HELD ON-30TH DECEMBER,2024",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-THE-DDCC-MEETING-HELD-ON-3-APRIL-2025.pdf",
+      "anchor_text": "MINUTES OF THE DDCC MEETING HELD ON 3 APRIL, 2025",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-THE-ORDINARY-MEETING-OF-THE-COUNCIL-HELD-ON-1ST-JULY-2025.pdf",
+      "anchor_text": "MINUTES OF THE ORDINARY MEETING OF THE COUNCIL HELD ON-1ST JULY,2025",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-THE-SPECIAL-COUNCIL-MEETING-HELD-ON-4TH-APRIL-2025.pdf",
+      "anchor_text": "MINUTES OF THE SPECIAL COUNCIL MEETING HELD ON-4TH APRIL,2025",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OF-THE-SPECIAL-MEETING-OF-COUNCIL-HELD-ON-29TH-SEPTEMBER-2024.pdf",
+      "anchor_text": "MINUTES OF THE SPECIAL MEETING OF COUNCIL HELD ON-29TH SEPTEMBER,2024",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/MINUTES-OFCOMMUNITY-DEVELOPMENT-HELD-ON-16TH-SEPTEMBER-2024.pdf",
+      "anchor_text": "MINUTES OF COMMUNITY DEVELOPMENT HELD ON-16TH SEPTEMBER,2024",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/Ndola-Citizen-Engagement-Strategy.pdf",
+      "anchor_text": "CITIZEN ENGAGEMENT STRATEGY 2025-2028",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/Ndola-City-Council-Newsletter-Ndola-Central-web1.pdf",
+      "anchor_text": "NEWSLETTER 2024/2025-CHIFUBU CONSTITUENCY",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/Ndola-City-Council-Newsletter-Ndola-Central-web1.pdf",
+      "anchor_text": "NEWSLETTER 2025",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/STAKEHOLDER-MEETINGS-3.pdf",
+      "anchor_text": "CDFC ORIENTATION MEETING REPORT 18TH-19TH FEB 2022",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/Secondary-School-Boarding-1.pdf",
+      "anchor_text": "Secondary School Boarding",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/Water-and-Sanitation-Community-Engagement-Report.pdf",
+      "anchor_text": "WATER AND SANITATION COMMUNITY ENGAGEMENT REPORT FOR 2025",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2025/12/chifubu-2025-skill-and-community-projecta-approvals.pdf",
+      "anchor_text": "2025-Approval/conveyance letter by PLGO",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2026/01/2025-STAKEHOLDER-ENGAGEMENT-PLAN.pdf",
+      "anchor_text": "2025 STAKEHOLDER ENGAGEMENT PLAN",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2026/03/SERVICE-CHARTER-FOR-NDOLA-CITY-COUNCIL.pdf",
+      "anchor_text": "SERVICE CHARTER FOR NDOLA CITY COUNCIL",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2026/04/NDOLA-DISTRICT-IDP-LAUNCH.pdf",
+      "anchor_text": "NDOLA DISTRICT IDP LAUNCH",
+      "extension": "pdf"
+    },
+    {
+      "url": "https://www.ndolacouncil.gov.zm/wp-content/uploads/2026/08/NDOLA-CITY-COUNCIL-2026-BUDGET-1.pdf",
+      "anchor_text": "NDOLA CITY COUNCIL 2026 BUDGET",
+      "extension": "pdf"
+    }
+  ],
+  "crawled_pages": {
+    "https://www.ndolacouncil.gov.zm/": {
+      "title": "Ndola City Council \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 122339
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=2845": {
+      "title": "Downloads \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 85694
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=3765": {
+      "title": "CDF APPROVED PROJECTS \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 86199
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=3162": {
+      "title": "Publications. \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 87190
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=932": {
+      "title": "CDF Tracker \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 1,
+      "content_length": 162851
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=3621": {
+      "title": "ZDSP \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 73481
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=187": {
+      "title": "News Updates \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 87757
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=118": {
+      "title": "Who we are \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 91822
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=2814": {
+      "title": "Administration \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 70608
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=2816": {
+      "title": "Finance \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 70594
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=2818": {
+      "title": "Engineering Services \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 87480
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=2823": {
+      "title": "Public Health \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 77900
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=2827": {
+      "title": "Legal \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 70590
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=2832": {
+      "title": "Planning \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 70596
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=2834": {
+      "title": "Housing and Social Services \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 70640
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=2838": {
+      "title": "Fisheries Livestock and Veterinarian Services \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 70678
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=2841": {
+      "title": "Agriculture \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 70602
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=2810": {
+      "title": "Institutional Management \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 70630
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=2825": {
+      "title": "Health Services \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 70612
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=792": {
+      "title": "Services \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 74734
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=971": {
+      "title": "Photo Gallery \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 125527
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=275": {
+      "title": "Contact Us \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 75209
+    },
+    "https://www.ndolacouncil.gov.zm/?page_id=1077": {
+      "title": "Press Statements \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 80797
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4892": {
+      "title": "BRRA ENGAGES NDOLA CITY COUNCIL ON DEVELOPMENT OF ALL-IN-ONE E-BUSINESS LICENCE \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 76728
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4847": {
+      "title": "NCC HOLDS MEETING TO PROMOTE eCOUNCIL APPLICATIONS AND EASE BUSINESS PROCESSES \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 83783
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4839": {
+      "title": "NDOLA CITY COUNCIL PREPARES CHAMBER FOR ADDITIONAL COUNCILLORS \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 76948
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4822": {
+      "title": "MAKE YOUR LOVE OFFICIAL. MAKE YOUR MARRIAGE LEGAL. \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 76243
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4813": {
+      "title": "50 BUSES RECEIVE DONATED BINS \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 78004
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4773": {
+      "title": "NCC STAFF PARTICIPATE IN GOVT BETTER WORK ETHICS SENSITISATION PROGRAMME \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 77551
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4762": {
+      "title": "FIVE CDF PROJECTS COMMISSIONED IN NDOLA CENTRAL CONSTITUENCY \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 79041
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4752": {
+      "title": "LANDS TRIBUNAL DELEGATION PAYS COURTESY CALL ON NDOLA MAYOR \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 76833
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4723": {
+      "title": "NDOLA CELEBRATES INTERNATIONAL WOMEN\u2019S DAY \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 74348
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4721": {
+      "title": "NCC PARTICIPATES IN ZAF MARATHON \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 74731
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4726": {
+      "title": "AFROX ZAMBIA/VEDRIMA DONATES 40 BINS TO NDOLA CITY COUNCIL \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 75715
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4719": {
+      "title": "DEFENCE MINISTER, ZAF, PLANT TREES TO MARK ZAF@61 AND NDOLA@120 \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 75687
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4716": {
+      "title": "PROPOSED INTER-CITY BUS TERMINUS: CONSULTANT HEARS PUBLIC VIEWS \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 76621
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4714": {
+      "title": "NDOLA VEFs SENSITISE RESIDENTS ON VOTER INSPECTION \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 74588
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4705": {
+      "title": "PROVINCIAL AND DISTRICT AGRIC OFFICERS RENEW COMMITMENT \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 76844
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4729": {
+      "title": "ZAF/NCC CONFER ON UPCOMING MARATHON AND EXPO \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 76772
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4493": {
+      "title": "PAMODZI WARD RESIDENTS GET THREE LIFE-CHANGING CDF PROJECTS \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 78233
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4487": {
+      "title": "PAMODZI WARD RESIDENTS GET THREE LIFE-CHANGING CDF PROJECTS \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 78031
+    },
+    "https://www.ndolacouncil.gov.zm/?p=4482": {
+      "title": "A CITY ON THE RISE: SAKANIA BORDER 50% COMPLETE \u2013 Ndola City Council",
+      "status": 200,
+      "table_count": 0,
+      "content_length": 76237
+    }
+  }
+}
