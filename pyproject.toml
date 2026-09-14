@@ -4,7 +4,11 @@ version = "0.1.0"
 description = "(UNZA CSC 4792) Data Mining and Warehousing Mini-Project for Ndola City Council"
 readme = "README.md"
 authors = [
-    { name = "Mwale Jonathan", email = "mwalejonathan10@gmail.com" }
+    { name = "Mwale Jonathan", email = "mwalejonathan10@gmail.com" },
+    { name = "Mitchell Ndona", email = "ndonamitchell@gmail.com" },
+    { name = "Joshua Mvula", email = "Joshmvula5@gmail.com" },
+    { name = "Enoch Simfukwe", email = "simfukweenoch@gmail.com" },
+    { name = "Humphrey Chama", email = "Humphreychama84@gmail.com" }
 ]
 requires-python = ">=3.10"
 dependencies = [
